@@ -11,7 +11,7 @@ Installation
 
   1. Move the `uptime_responder` folder into your dinkly project's `plugins` folder
 
-  2. dd the following lines under the `plugins` section of your `config/config.yml` file:
+  2. Add the following lines under the `plugins` section of your `config/config.yml` file:
 
     ```yaml
     uptime_responder:
