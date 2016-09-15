@@ -3,17 +3,10 @@
  * ResponderController
  *
  * @package    Dinkly
- * @subpackage AppsResponderController
+ * @subpackage PluginsResponderController
  * @author     Christopher Lewis <lewsid@lewsid.com>
  */
-class ResponderController extends Dinkly
+class ResponderController extends BaseResponderController
 {
-	/**
-	 * Default Constructor
-	 *
-	 */
-	public function __construct()
-	{
-		return true;
-	}
+	//Put overrides and new functionality here...
 }
