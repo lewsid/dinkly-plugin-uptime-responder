@@ -17,9 +17,8 @@ Installation
     uptime_responder:
             apps:
                 responder:
-                    app_name: UptimeResponder
-                    is_plugin: true
                     base_href: /responder
+                    app_name: UptimeResponder
                     enabled: true
                     default_module: response
     ```
