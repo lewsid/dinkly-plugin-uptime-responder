@@ -1,4 +1,4 @@
-Dinkly Uptime Responder Plugin v1.00
+Dinkly Uptime Responder Plugin v1.01
 ====================================
 
 This little plugin exists only as an endpoint for uptime monitoring. In addition to confirming Apache is running

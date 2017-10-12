@@ -14,8 +14,6 @@ class BaseResponderController extends Dinkly
 	 */
 	public function __construct()
 	{
-		die('here');
-
 		return true;
 	}
 }
